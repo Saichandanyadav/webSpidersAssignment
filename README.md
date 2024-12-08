@@ -138,7 +138,7 @@ The **Task Management API** is a robust system for creating, retrieving, updatin
 
 ## Testing the API with Postman
 
-Use the provided endpoints above to perform **CRUD operations** using Postman. Ensure the server is running, and input the appropriate request data to test the application effectively.
+Use the endpoints provided above to perform CRUD operations using Postman. Ensure the server is running and input the appropriate request data to test the application effectively.
 
 ---
 
@@ -147,9 +147,9 @@ Use the provided endpoints above to perform **CRUD operations** using Postman. E
 The project is deployed at:  
 🔗 **[Live API URL](https://chandan-webspi-app.onrender.com)**
 
-Use the provided endpoints to interact with the API.
-
+Use the provided endpoints to interact with the API. 
 Note: The data fetching is slow so Kindly wait 2-3 Min to fetch the data according to API endpoint.
+
 ---
 
 ## Follow Me
