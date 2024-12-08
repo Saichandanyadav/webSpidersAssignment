@@ -149,6 +149,7 @@ The project is deployed at:
 
 Use the provided endpoints to interact with the API.
 
+Note: The data fetching is slow so Kindly wait 2-3 Min to fetch the data according to API endpoint.
 ---
 
 ## Follow Me
